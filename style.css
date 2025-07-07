@@ -1,0 +1,62 @@
+.image{
+    line-height: 150px;
+    text-align: center;
+}
+.image img {
+    max-height: 150px;
+}
+.p_name{
+    text-align: center;
+    height: 3rem;
+    font-size: 16px;
+    font-weight: bold;
+}
+.p_box{
+    border: 1px solid #dfdfdf;
+}.p_box:hover{
+    border: 2px solid #0000ff;
+}
+.p_desc{
+    height: 4rem;
+}
+.p_price{
+    color: #0000ff;
+    font-size: 20px;
+    font-weight:600;
+}
+.p_btn{
+    text-align: center;
+    margin: 30px 0px;
+}
+.p_btn a{
+    width: 100%;
+    border-radius: 30px;
+}
+.pd_img{
+    text-align: center;
+    line-height: 200px;
+}
+.pd_img img{
+    max-height: 150px;
+    max-width: 250px;
+}
+.pd_name{
+    font-size: 20px;
+    font-weight: 600;
+    height: 3rem;
+}
+.pd_desc{
+    height: 4rem;
+}
+.pd_price{
+    color: #0000ff;
+    font-size: 16px;
+}
+.pd_btn input{
+    width: 100px;
+    border-radius: 50px;
+    margin-top:30px;
+}
+.center{
+    text-align: center;
+}
